@@ -8,6 +8,8 @@
    
   In this application I was tasked to build a text editor that runs in the browser. The app is a `single-page application` that meets the `PWA` criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the users browser. The application also functions offline once the client selects the install button option.
 
+![Screen Shot 2024-02-22 at 11 12 28 PM](https://github.com/AnthonyBuffill/jammintexteditor/assets/153314977/8b85a5b7-67b9-4f16-baf2-8f6fe302667f)
+
 ## Table of Contents 
 
 - [Installation](#installation)
